@@ -1,0 +1,14 @@
+name: react
+icon: react
+title: React
+
+services:
+- name: nginx
+  title: Nginx
+  service: nginx
+  required: true
+  containers:
+  - name: nginx
+    env:
+    - name: NGINX_VHOST_PRESET
+      value: html
