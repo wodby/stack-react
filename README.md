@@ -8,6 +8,7 @@ Deploy React applications on Kubernetes with [Wodby](https://wodby.com).
 
 - [React stack on Wodby](https://wodby.com/stacks/react)
 - [Browse Wodby application stacks](https://wodby.com/stacks)
+- [React stack guide](https://wodby.com/docs/2.0/stacks/catalog/react/)
 - [Wodby stack documentation](https://wodby.com/docs/2.0/stacks/)
 - [Stack manifest reference](https://wodby.com/docs/2.0/stacks/template/)
 
